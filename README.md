@@ -3,6 +3,7 @@
 Actively seeking Software Developer / MERN Stack roles.**
 
 Know More About me 👉 **https://inspiring-entremet-407529.netlify.app/** 😊😊
+
 Email Me 👉 ✉️ **hariomptu22@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 I am a Full-Stack Web Developer based in Chandigarh, India. I am a Computer Science Engineering undergraduate (2026) from IK Gujral Punjab Technical University. I am passionate about improving my coding skills and building real-world web applications. I develop full-stack applications and websites using the MERN stack and enjoy learning by building and experimenting with new technologies.
